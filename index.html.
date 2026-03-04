@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Unblocked Site</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; margin-top: 50px; }
+        a { font-size: 20px; color: blue; text-decoration: none; }
+    </style>
+</head>
+<body>
+    <h1>Welcome</h1>
+    <p>This is my unblocked site.</p>
+    <a href="https://google.com">Search</a>
+</body>
+</html>
